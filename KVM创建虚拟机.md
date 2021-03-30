@@ -32,9 +32,7 @@
 
 ```
 [root@Dell ~]# vim /etc/libvirt/qemu.conf
-
 user = "root"
-
 group = "root"
 ```
 
